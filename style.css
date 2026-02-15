@@ -361,7 +361,7 @@ margin-top: 20vh;
 .drinks-container {
     display: flex;
     justify-content: center;
-    gap: 3vw;
+    gap: 2vw;
     
 }
 
@@ -385,7 +385,8 @@ margin-top: 20vh;
 
 /* imagem */
 .drinks img {
-    height: 20vh;
+    height: 25vh;
+    width: 15VW;
 }
 
 /* nome */
